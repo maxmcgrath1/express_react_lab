@@ -1,14 +1,14 @@
 [
     {
-        "name": "project1",
-        "live": "https://app.herokuapp.com/whatever",
-        "git": "http://www.github.com/username/reponame",
-        "image": "http://www.imgur.com/pictureofproject.png"
+        "name": "Project 1: Blackjack",
+        "live": "https://pages.git.generalassemb.ly/maxmcgrath/Project-1-Blackjack/",
+        "git": "https://git.generalassemb.ly/maxmcgrath/Project-1-Blackjack",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fproadvisor247.com%2Fwp-content%2Fuploads%2F2020%2F04%2FBlackjack-21-1-1-2048x2048.jpg&f=1&nofb=1"
     },
     {
-        "name": "project2",
-        "live": "https://app.netlify.app/whatever",
-        "git": "http://www.github.com/username/reponame",
-        "image": "http://www.imgur.com/pictureofproject.png"
+        "name": "Project2: Fumblr",
+        "live": "https://secure-shelf-80229.herokuapp.com/fumblr",
+        "git": "https://github.com/mariogerardi/fumblr",
+        "image": "https://drive.google.com/uc?export=download&id=1J8dk_FaIy3r1wiPmgL_rCYkajRK58kJt"
     }
 ]

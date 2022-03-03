@@ -11,13 +11,13 @@
         "live": "https://secure-shelf-80229.herokuapp.com/fumblr",
         "git": "https://github.com/mariogerardi/fumblr",
         "image": "https://drive.google.com/uc?export=download&id=1J8dk_FaIy3r1wiPmgL_rCYkajRK58kJt",
-        "description": "Fumblr was a collaborative project between myself and 2 others where we made a Tumblr copycat to pay homage to the older version of it"
+        "description": "Fumblr is a full-stack MEN app collaborative project between myself and 2 others where we made a Tumblr copycat to pay homage to the older version of it"
     },
     {
         "name": "Project 3: Wayfarer",
         "live": "https://ineedalinkforthis.com",
         "git": "https://github.com/maxmcgrath1/Project3",
         "image": "https://st2.depositphotos.com/3096625/9284/v/600/depositphotos_92842844-stock-illustration-monogram-letter-w-logo.jpg",
-        "description": "Wayfarer is a mock traveling blog where users can post about various cities they have been to. This project was also a 3-person collaboration"
+        "description": "Wayfarer is a mock traveling blog where users can post about various cities they have been to. This project was also a 3-person collaboration, utilizing Django and python"
     }
 ]

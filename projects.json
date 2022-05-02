@@ -9,7 +9,7 @@
     {
         "name": "Project 2: Fumblr",
         "live": "https://secure-shelf-80229.herokuapp.com/fumblr",
-        "git": "",
+        "git": "https://github.com/maxmcgrath1/fumblr",
         "image": "https://drive.google.com/uc?export=download&id=1J8dk_FaIy3r1wiPmgL_rCYkajRK58kJt",
         "description": "Fumblr is a full-stack MEN app collaborative project between myself and 2 others where we made a Tumblr copycat to pay homage to the older version of it"
     },

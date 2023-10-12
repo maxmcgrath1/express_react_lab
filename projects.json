@@ -11,7 +11,7 @@
         "live": "https://ggood-ggames.netlify.app/",
         "git": "https://github.com/maxmcgrath1/capstone_frontend",
         "image": "https://i.imgur.com/PGcQ5He.png",
-        "description": "Good Games is a MERN stack website dedicated to playing games right in your browser. These games were built using react."
+        "description": "Good Games is a MERN stack application dedicated to playing games right in your browser. These games were built using react."
     },
     {
         "name": "fumblr",
